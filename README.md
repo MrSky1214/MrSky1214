@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrSky1214
+- 👋 Hi, I’m Akash Gupta (@MrSky1214)
 - 👀 I’m interested in Data Analyst Field
 - 🌱 I’m currently learning SQL & Python 
 - 💞️ I’m looking for Job or an internship in Data Analyst
